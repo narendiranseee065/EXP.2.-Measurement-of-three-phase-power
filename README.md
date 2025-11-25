@@ -19,3 +19,7 @@ Replace the ganged rheostat by three separate rheostats of 26 Ω, 4.1 A and con
 Adjust the three rheostats at the maximum values.
 Switch on the supply and set the autotransformer to 110 V.
 Close switch S1 and take five sets of observation for different rheostat settings such that the reading of I1, I2 and I3 in each set is appreciably different to create unbalanced loading condition. The current should not exceed the limits in each arm.
+
+
+
+LINK: https://asnm-iitkgp.vlabs.ac.in/exp/three-phase-power-measurement/index.html
