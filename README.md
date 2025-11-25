@@ -1,4 +1,4 @@
-# EXP.2.-Measurement-of-three-phase-power
+# EXP.3.-Measurement-of-three-phase-power
 
 Procedure
 BALANCED LOAD :
